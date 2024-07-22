@@ -26,3 +26,7 @@ This project is a basic implementation of the classic Ping-Pong game using Pytho
 Run the game:
 ```bash
 python main.py
+```
+
+4. output image
+   ![pingpong](https://github.com/user-attachments/assets/09affbfc-4324-4d99-9712-c52a2023e543)
